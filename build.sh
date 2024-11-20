@@ -1,0 +1,1 @@
+docker build -t hyrule_castle:v1 .

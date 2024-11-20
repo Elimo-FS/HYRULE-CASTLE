@@ -1,0 +1,1 @@
+docker run -it hyrule_castle:v1

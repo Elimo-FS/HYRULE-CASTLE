@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Characteristics",
+        "option": [
+            "Basic Characteristics",
+            "Character Creation",
+            "Basic Characteristics II",
+            "Level and Experience"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Better Combat Options",
+        "option": [
+            "Better Combat Options",
+            "More Statistics",
+            "Inventory",
+            "Magic Skills",
+            "Team Combat"
+        ]
+    }
+]

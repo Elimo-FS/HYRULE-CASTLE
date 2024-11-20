@@ -1,0 +1,1 @@
+docker run -it -v "$(pwd)/jsonModifier:/HyruleCastle/json" hyrule_castle:v1
