@@ -30,5 +30,5 @@ Le jeu est conteneurisé dans une image Docker, permettant une exécution facile
 
 Le projet est divisé en deux sections principales :
 
-1. **Base Game** : Contient la logique de base du jeu, sans mods. Ce code est placé dans le dossier `base_game/`.
-2. **Mods** : Contient des fonctionnalités supplémentaires ajoutées au jeu de base. Chaque mod est placé dans un fichier séparé dans le dossier `mods/`.
+1. **Base Game** : Contient la logique de base du jeu, sans mods. Ce code est placé dans le dossier `hyrule/`.
+2. **Mods** : Contient des fonctionnalités supplémentaires ajoutées au jeu de base. Chaque mod est placé dans un fichier séparé dans le dossier `jsonModifier/`.
