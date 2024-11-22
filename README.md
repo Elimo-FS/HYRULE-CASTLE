@@ -7,7 +7,6 @@ Un jeu textuel basé sur l'univers de *The Legend of Zelda*, développé en **Ba
 - Exploration du château et de ses environnements mystérieux.
 - Système de combat contre des ennemis dynamiques.
 - Gestion des personnages et de leurs statistiques.
-- Résolution de pièges et d'énigmes pour progresser.
 
 ## 🛠️ Structure du projet
 
