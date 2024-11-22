@@ -13,8 +13,9 @@ Un jeu textuel basé sur l'univers de *The Legend of Zelda*, développé en **Ba
 Voici les principaux fichiers et scripts du projet :
 
 - **`launcher.sh`** : Le script principal pour lancer le jeu.
-- **`modifier.sh`** : Génère des événements aléatoires dans le jeu.
-- **`build.sh`** : Fichier contenant des données de jeu (ennemis, pièges, objets, etc.).
+- **`modifier.sh`** : envoi les nouvelles données dans le jeu.
+- **`build.sh`** : Création de contener pour chaques instructions du Dockerfile.
+- **`Dockerfile`** : Fichier de configuration pour exécuter le jeu dans un conteneur Docker.
 
 ## 🚀 Comment démarrer ?
 
